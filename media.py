@@ -3,10 +3,7 @@ import webbrowser
 
 
 class Movie():
-	""" This is a DOC information"""
-
-	#list of all the ratings
-	VALID_RATINGS = ["G", "PG", "PG-13", "R"]
+	""" This is a Movie class contains title, duration, actor, trailer_url, movie_storyline, poster_image"""
 
 
 	def __init__(self, movie_title, duration, actor, trailer_youtube, movie_storyline, poster_image):
