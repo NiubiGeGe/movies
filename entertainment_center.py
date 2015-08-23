@@ -25,8 +25,4 @@ movies = [toy_story, avatar, school_of_rock, ratatouille, midnight_in_paris, hun
 
 fresh_tomatoes.open_movies_page(movies)
 
-school_of_rock.show_actor()
 
-#print(media.Movie.VALID_RATINGS)
-
-print(media.Movie.__module__)
