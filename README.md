@@ -23,6 +23,9 @@ movies
 
 ###Creator:
 **Zheng Wang**
+
 * https://github.com/NiubiGeGe
+
 **Udacity**
+
 * https://udacity.com
