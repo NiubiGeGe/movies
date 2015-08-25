@@ -57,9 +57,12 @@ hunger_games = media.Movie(
     "https://upload.wikimedia.org/wikipedia/en/4/42/HungerGamesPoster.jpg"
 )
 
+#store all the movies in a list
 movies = [
     toy_story, avatar, school_of_rock, ratatouille, midnight_in_paris,
     hunger_games
 ]
 
+#Create movie website by using this function
 fresh_tomatoes.open_movies_page(movies)
+
