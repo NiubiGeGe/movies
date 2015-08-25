@@ -7,12 +7,14 @@ Quick Start:
        the instruction in the file
   3. Use command: python entertainment_center.py
 
-What's included:
+###What's included:
+'''
   movies/
-    ├── entertainment_center.py
-    ├── fresh_tomatoes.py
-    ├── media.py
-    ├── README.md
+│   ├── entertainment_center.py
+│   ├── fresh_tomatoes.py
+│   ├── media.py
+│   ├── README.md
+'''
 
 Features:
   1. It shows movie trailer by clicking the poster image.
