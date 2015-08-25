@@ -7,11 +7,12 @@ Quick Start:
        the instruction in the file
   3. Use command: python entertainment_center.py
 
-movies/
-├── entertainment_center.py
-├── fresh_tomatoes.py
-├── media.py
-├── README.md
+What's included:
+  movies/
+    ├── entertainment_center.py
+    ├── fresh_tomatoes.py
+    ├── media.py
+    ├── README.md
 
 Features:
   1. It shows movie trailer by clicking the poster image.
@@ -20,3 +21,6 @@ Features:
 
 Creator:
   Zheng Wang
+    -https://github.com/NiubiGeGe
+  Udacity
+    -https://udacity.com
