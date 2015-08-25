@@ -1,8 +1,12 @@
 # movies
 movies
 
+Quick Start:
+    1. Clone the repo: git clone https://github.com/NiubiGeGe/movies.git
+    2. Put your favorite movies' information into entertainment_center.py follow
+       the instruction in the file
+    3. Use command: python entertainment_center.py
 
-This is a movie website.
 
 Features:
   1. It shows movie trailer by clicking the poster image.
