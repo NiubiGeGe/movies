@@ -28,7 +28,7 @@ movies
 
 **Zheng Wang**
 
-* https://github.com/NiubiGeGe
+* https://github.com/jowangz
 
 **Udacity**
 
